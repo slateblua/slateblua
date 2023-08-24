@@ -3,9 +3,10 @@
 val slateblua = developer {
     about {
         name = "Serge"
-        role = Kotlin_Developer
+        role = Roles.STUDENT
+        college = AUA
     }
-    tech("Kotlin", "Java", "Ktor", "JetPack")
+    tech(mostUsed = "Kotlin", "Java", "Ktor", "JetPack", "React")
 }
 
 ```
