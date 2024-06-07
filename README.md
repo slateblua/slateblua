@@ -2,10 +2,10 @@
 
 val slateblua = developer {
     about {
-        name = "Serge"
+        name = "Serg"
         college = AUA
     }
-    tech("Kotlin", "Java", "JetPack", "React")
+    tech("Kotlin", "Java", "JetPack", "libGDX")
 }
 
 ```
